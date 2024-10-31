@@ -47,7 +47,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Data Analysis
 
-Created features on Power Bi to calculate fatality rates
+![Road Crashes](https://github.com/user-attachments/assets/33e89bcb-0a67-4860-844a-09a894b32b57)
+
 
 
 ### Results/Findings
